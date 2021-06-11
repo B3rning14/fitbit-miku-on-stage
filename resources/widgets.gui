@@ -1,0 +1,10 @@
+<svg>
+    <defs>
+        <link rel="stylesheet" href="styles.css" />
+        <link rel="import" href="/mnt/sysassets/widgets_common.gui" />
+        <symbol id="miku_frames" href="#sprite-image">
+            <animate id="anim" attributeName="value" begin="enable" end="disable" from="0" to="30" dur="1" repeatCount="indefinite" />
+            <image width="40%" height="40%" x="30%+5" y="0" href="miku/miku_01.png" />
+        </symbol>
+    </defs>
+</svg>

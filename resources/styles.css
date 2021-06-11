@@ -1,0 +1,72 @@
+#background {
+    x: 0;
+    y: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .9;
+}
+
+.clock {
+    font-size: 64;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: middle;
+    fill: #FFFFFF;
+    x: 50%;
+}
+
+#clockLabel {
+    y: 50%+20;
+}
+
+#clockShadow {
+    y: 50%+23;
+    opacity: .6;
+}
+
+.date {
+    font-size: 24;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: middle;
+    x: 50%;
+    fill: #FFFFFF;
+}
+
+#dateLabel {
+    y: 55%+30;
+}
+
+#dateShadow {
+    y: 55%+32;
+    opacity: .6;
+}
+
+.metric {
+    fill: #FFFFFF;
+    font-size: 16;
+    text-length: 32;
+    font-family: System-Bold;
+}
+
+.metric-col-0 {
+    x: 10%;
+    text-anchor: start;
+}
+
+.metric-col-1 {
+    x: 90%;
+    text-anchor: end;
+}
+
+.metric-row-0 {
+    y: 65%+30;
+}
+
+.metric-row-1 {
+    y: 75%+30;
+}
+
+.metric-row-2 {
+    y: 85%+30;
+}

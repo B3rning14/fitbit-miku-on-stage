@@ -1,0 +1,30 @@
+{
+    "devDependencies": {
+        "@fitbit/sdk": "~4.2.0",
+        "@fitbit/sdk-cli": "^1.7.3",
+        "prettier": "^2.3.1"
+    },
+    "fitbit": {
+        "appUUID": "ded2f537-5aca-47b0-9c25-457cd30f6ab4",
+        "appType": "clockface",
+        "appDisplayName": "Miku on stage",
+        "iconFile": "resources/icon.png",
+        "wipeColor": "",
+        "requestedPermissions": [
+            "access_activity",
+            "access_heart_rate"
+        ],
+        "buildTargets": [
+            "mira",
+            "meson",
+            "gemini"
+        ],
+        "defaultLanguage": "en-US"
+    },
+    "scripts": {
+        "build": "fitbit-build"
+    },
+    "dependencies": {
+        "strftime": "^0.10.0"
+    }
+}

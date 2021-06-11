@@ -1,0 +1,17 @@
+msgid "metrics.battery"
+msgstr "Batterie"
+
+msgid "metrics.heartRate"
+msgstr "Pouls"
+
+msgid "metrics.distance"
+msgstr "Distance"
+
+msgid "metrics.steps"
+msgstr "Nb pas"
+
+msgid "metrics.calories"
+msgstr "Nb calories"
+
+msgid "metrics.elevationGain"
+msgstr "Étages"

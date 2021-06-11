@@ -1,0 +1,17 @@
+<svg>
+    <image id="background" href="background.png" />
+    <use id="miku_animation" href="#miku_frames" />
+
+    <g>
+        <text id="clockShadow" class="clock" />
+        <text id="clockLabel" class="clock" />
+        <text id="dateShadow" class="date" />
+        <text id="dateLabel" class="date" />
+        <text id="metric0" class="metric metric-col-0 metric-row-0" />
+        <text id="metric1" class="metric metric-col-1 metric-row-0" />
+        <text id="metric2" class="metric metric-col-0 metric-row-1" />
+        <text id="metric3" class="metric metric-col-1 metric-row-1" />
+        <text id="metric4" class="metric metric-col-0 metric-row-2" />
+        <text id="metric5" class="metric metric-col-1 metric-row-2" />
+    </g>
+</svg>
