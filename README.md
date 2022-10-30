@@ -1,6 +1,6 @@
 # fitbit-miku-on-stage
 
-![Preview](https://cdn.b3rning14.fr/images/b3/external/fitbit/fitbit-miku-on-stage/fitbit-miku-on-stage.gif)
+![Preview](https://api.b3rning14.fr/api/image/6230e0f54eacae837bd963d3/card.jpeg)
 
 A Fitbit Versa (1/2/Lite) clock face with miku dancing for your pleasure.
 
